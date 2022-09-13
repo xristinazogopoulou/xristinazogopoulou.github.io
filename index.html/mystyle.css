@@ -1,8 +1,6 @@
 body {
     background-color:rgb(221, 251, 174);
-  }
-  
-
+    margin: 50px;}
   a {color: rgb(56, 92, 23);}
   
   li:hover {
@@ -31,9 +29,6 @@ span {font-style: italic ;
 @media screen and (max-width: 1000px) {
   .menu {color: rgb(47, 84, 12);
 }}
-body {
-  margin: 50px;
-}
 li {background: rgb(221, 251, 174);
   display: inline-block;
   width: 20%;
