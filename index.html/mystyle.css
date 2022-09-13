@@ -28,11 +28,9 @@ span {font-style: italic ;
 }
 #Mike {background-color:rgb(231, 241, 154);}
 
-@media screen and (min-width: 600px) {
-  body {
-    background-color:rgb(183, 215, 133);
-  }
-}
+@media screen and (max-width: 1000px) {
+  .menu {color: rgb(47, 84, 12);
+}}
 body {
   margin: 50px;
 }
@@ -43,7 +41,6 @@ li {background: rgb(221, 251, 174);
 table, th, td {
 border:1px solid black;
 }
-
 .center {
 display: block;
 margin-left: auto;
