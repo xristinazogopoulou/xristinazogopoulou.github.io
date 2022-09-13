@@ -24,7 +24,8 @@ body {
 }
 .quote { font-style:italic}
 .content { font-style:italic}
-
+span {font-style: bold ;
+background-color: blue;}
 #Mike {background-color:rgb(231, 241, 154);}
 
 @media screen and (max-width: 400px) {
