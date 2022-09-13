@@ -22,8 +22,8 @@ body {
 .bestsellers {
   background-color: rgb(231, 241, 154);
 }
-.quote{font:italic}
-.content {font:italic}
+.quote { font-style:italic}
+.content { font-style:italic}
 
 #Mike {background-color:rgb(231, 241, 154);}
 
