@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(221, 251, 174);
+  }
+  
+  h1 {
+    color: rgb(84, 101, 56);
+    margin-left: 20px;
+  }
+  a {color: rgb(56, 92, 23);}
+  
+  li:hover {
+    background: rgb(201, 243, 118);
+}
+
+.menu {
+  background:rgb(221, 251, 174);}
+
+.bestsellers {
+  background-color: rgb(231, 241, 154);
+}
+
+#Mike {background-color:rgb(231, 241, 154);}
+
+@media screen and (max-width: 400px) {
+  body {
+    background-color:rgb(183, 215, 133);
+  }
+}
+
+  
