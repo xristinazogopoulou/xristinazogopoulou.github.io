@@ -28,7 +28,7 @@ span {font-style: italic ;
 }
 #Mike {background-color:rgb(231, 241, 154);}
 
-@media screen and (max-width: 400px) {
+@media screen and (min-width: 400px) {
   body {
     background-color:rgb(183, 215, 133);
   }
